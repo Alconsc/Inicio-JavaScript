@@ -1,0 +1,22 @@
+<meta charset="UTF-8">
+
+
+JavaScript
+<br>
+<script>
+	document.write("La edad de Alberto es ...")
+	document.write("<br>")
+	document.write("39")
+</script>
+
+
+
+
+<script>
+    document.write(10 + 20);
+</script>
+
+
+<script>
+    document.write("<h1>Sea bienvenido</h1>");
+</script>
